@@ -1,4 +1,4 @@
-FROM statenweb/ansible:ubuntu16.04
+FROM williamyeh/ansible:ubuntu16.04
 MAINTAINER Mat Gargano <mat@statenweb.com>
 
 RUN echo "===> Adding build prerequisites..."   && \
